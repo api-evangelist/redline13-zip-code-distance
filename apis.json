@@ -1,0 +1,50 @@
+{
+    "name": "RedLine13 Zip Code Distance",
+    "description": "RedLine13 is an \"almost\" free load testing service that allows users to run a range load, stress, and performance tests with popular tools like JMeter.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1900-redline13-zip-code-distance.jpg",
+    "tags": [
+        "calculator",
+        "conversions",
+        "have api",
+        "nonprofit"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/redline13-zip-code-distance\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "RedLine13 Zip Code Distance",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1900-redline13-zip-code-distance.jpg",
+            "humanURL": "http:\/\/zipcodedistanceapi.redline13.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/redline13-zip-code-distance-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/redline13"
+        },
+        {
+            "type": "Email",
+            "url": "info@redline13.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/redlinethirteen"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/zipcodedistanceapi.redline13.com\/"
+        }
+    ]
+}
